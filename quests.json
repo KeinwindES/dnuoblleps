@@ -1,0 +1,19 @@
+{
+  "quests": [
+    {
+      "id": "QUEST_0001",
+      "name": "debris removed",
+      "description": "",
+      "tags": [],
+      "complete_script": "RemoveDebris",
+    },
+    {
+      "id": "QUEST_0002",
+      "name": "Talk to Papa",
+      "description": "",
+      "tags": [],
+      "complete_script": "TalkToPapa01",
+    }
+  ],
+  "localized": false
+}

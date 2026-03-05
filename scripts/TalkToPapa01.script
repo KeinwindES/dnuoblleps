@@ -1,0 +1,3 @@
+complete_quest("QUEST_0002");
+display_message("Go Remove debris");
+give_quest("QUEST_0001");

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Potion",
+      "description": "",
+      "tags": [],
+      "properties": {},
+      "stackable": true,
+      "stack_limit": 64,
+      "cost": 0,
+      "image": "PotionSprite.png",
+      "usable": true,
+      "num_of_uses": 1,
+      "script": ""
+    }
+  ],
+  "localized": false
+}

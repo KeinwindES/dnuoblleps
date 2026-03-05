@@ -1,0 +1,12 @@
+{
+  "quests": [
+    {
+      "id": "QUEST_0001",
+      "name": "debris removed",
+      "description": "",
+      "tags": [],
+      "complete_script": "RemoveDebris",
+    }
+  ],
+  "localized": false
+}
