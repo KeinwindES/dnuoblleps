@@ -1,2 +1,0 @@
-display_message("Go Remove debris");
-give_quest("QUEST_0001");

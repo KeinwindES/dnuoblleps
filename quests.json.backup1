@@ -9,9 +9,10 @@
     },
     {
       "id": "QUEST_0002",
-      "name": "Talk to Papa",
+      "name": "Talk to Captain",
       "description": "",
       "tags": [],
+      "complete_script": "TalkToPapa01",
     }
   ],
   "localized": false

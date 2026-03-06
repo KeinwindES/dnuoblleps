@@ -1,1 +1,4 @@
 load_map("OverWorld", coord[0, 0, 0], SOUTH);
+display_message("Talk to Captain");
+give_quest("QUEST_0001");
+show_widget("Quest Log");

@@ -2,17 +2,17 @@
   "quests": [
     {
       "id": "QUEST_0001",
-      "name": "debris removed",
+      "name": "Talk to Captian",
       "description": "",
       "tags": [],
-      "complete_script": "RemoveDebris",
+      "complete_script": "TalkToCaptain01",
     },
     {
       "id": "QUEST_0002",
-      "name": "Talk to Papa",
+      "name": "Remove debris",
       "description": "",
       "tags": [],
-      "complete_script": "TalkToPapa01",
+      "complete_script": "RemoveDebris",
     }
   ],
   "localized": false

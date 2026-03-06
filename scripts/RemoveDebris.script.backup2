@@ -1,2 +1,3 @@
 remove_entity(self);
 give_item("ITEM_0001");
+save_game();
