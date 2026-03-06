@@ -3,4 +3,6 @@ Hello, i rememebr when my mom showed me this game on Facebook, at the start i fo
 after a few days or weeks, the game grew on me, and a few mounths ago, i wanted to play the game again.
 however, the game was shut down on facebook, so i decided to create it myself
 
-I AM NOT AFFILIATED WITH SMURF
+This is an unofficial fan project created for educational purposes.
+It is not affiliated with or endorsed by the Smurfs rights holders.
+All trademarks and characters belong to their respective owners.
